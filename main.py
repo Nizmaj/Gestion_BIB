@@ -2,7 +2,6 @@ from Fonctions.gestion_livres import *
 from Fonctions.gestion_lecteurs import *
 from Fonctions.suivi_emprunt import *
 
-
 while True:
         print("1- Ajouter un livre")
         print("2- Supprimer un livre")
