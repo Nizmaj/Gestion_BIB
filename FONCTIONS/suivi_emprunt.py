@@ -44,9 +44,7 @@ def ajout_emprunt():
                         if (dl["id"]==n):
                             dl["disponibilite"]=False
                             set_livres(dliv)
-                    break
-                    
-                            
+                    break              
             else:
                 print("Ce lecteur n'existe pas")
             break
